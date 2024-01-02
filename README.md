@@ -1,6 +1,6 @@
 # awesome-ios-jailbreak
 
-A repository with all jailbreaks for all iOS versions
+A repository with all jailbreaks for all iOS versions (WIP)
 
 - [iOS 1.x](#iOS-1.x)
 - [iOS 2.x](#iOS-2.x)
